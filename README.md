@@ -5,4 +5,4 @@
 
 ## Start Here
 ### [ What is an SVG ](https://github.com/ZechWatkins/IT1600FinalProject_ziwmtb/blob/main/WhatIsSVG.md)
-### [Creating an SVG](https://github.com/ZechWatkins/IT1600FinalProject_ziwmtb/blob/main/CreatingAnSVG.md)
+### [Creating an SVG Image](https://github.com/ZechWatkins/IT1600FinalProject_ziwmtb/blob/main/CreatingAnSVG.md)
