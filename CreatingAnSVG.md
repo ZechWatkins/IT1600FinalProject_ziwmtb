@@ -1,4 +1,4 @@
-# Creating An SVG image file?
+# Creating An SVG Image File
 
 There are multiple softwares that you can use to create SVG images. Create the image you want and then export the image as an SVG.
 
